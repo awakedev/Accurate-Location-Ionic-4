@@ -1,1 +1,3 @@
-# A location tracking application developed in Ionic 4
+# A location tracking application developed using Ionic 4
+
+
